@@ -1,4 +1,3 @@
-import jQuery from 'jquery'
 ;(function () {
     var VERSION = '2.2.3',
         pluginName = 'datepicker',
